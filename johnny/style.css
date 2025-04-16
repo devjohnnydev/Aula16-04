@@ -1,0 +1,23 @@
+body{
+
+    background-color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+
+    color: chocolate;
+}
+
+
+strong{
+
+    color: aquamarine;
+}
+
+img{
+
+    width: 200px;
+    height: 150;
+    border-radius: 50%;
+}
